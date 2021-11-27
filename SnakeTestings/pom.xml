@@ -5,11 +5,11 @@
 <modelVersion>4.0.0</modelVersion>
 
 <groupId>org.ivanmanhattan</groupId>
-<artifactId>TestingsSnake</artifactId>
+<artifactId>SnakeTestings</artifactId>
 <version>0.1</version>
 <packaging>jar</packaging>
 
-<name>TestingsSnake</name>
+<name>SnakeTestings</name>
 <url>http://maven.apache.org</url>
 
 <properties>
